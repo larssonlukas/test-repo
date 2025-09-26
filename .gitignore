@@ -1,0 +1,9 @@
+# Ignorera loggfiler
+*.log 
+# Ignorera tempfiler
+*.tmp
+# Ignorera mappar
+cache/
+temp/
+# Ignorera VS code inställningar
+.vscode/
